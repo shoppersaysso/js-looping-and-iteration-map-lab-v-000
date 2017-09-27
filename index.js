@@ -5,5 +5,9 @@ function lowerCaseDrivers (list) {
 }
 
 function nameToAttributes () {
+
+};
+
+function attributesToPhrase () {
   
 }
