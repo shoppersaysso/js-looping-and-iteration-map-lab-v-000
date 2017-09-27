@@ -13,6 +13,8 @@ function nameToAttributes (list) {
   });
 };
 
-function attributesToPhrase () {
-  
+function attributesToPhrase (list) {
+  return list.map(function (driver) {
+    
+  })
 }
